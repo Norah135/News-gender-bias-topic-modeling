@@ -1,6 +1,6 @@
 Gender Bias in Regional News: A Topic Modeling Analysis
 
-Introduction
+Introduction: 
 Gender bias is a pervasive societal issue that permeates various aspects of our lives, with far-reaching implications, particularly in information dissemination. News articles, as a primary source of information, are not immune to gender bias, which can subtly influence language, perspectives, and the overall framing of stories. Addressing gender bias is essential for fostering inclusivity and ensuring fair representation within the media landscape. Biased language and narratives have the potential to perpetuate stereotypes, reinforce societal norms, and contribute to unequal power dynamics.
 
 Project Goal:
